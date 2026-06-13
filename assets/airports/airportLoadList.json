@@ -339,7 +339,7 @@
         "level": "beginner",
         "name": "Theodore Francis Green Memorial State Airport",
         "premium": false,
-        "disabled": true
+        "disabled": false
     },
     {
         "icao": "krdu",
